@@ -1,0 +1,31 @@
+Q. What is Programming Language
+A programming language is a set of instructions that programmers use to communicate with computers. These instructions are written in a specific language, such as: C, C++, Java, Python etc.
+
+Q. Why learn C++ instead of other Programming languages
+1. Efficiency 
+2. Strong abstraction capabilities
+3. Standard Template Library (STL)
+4. Best in remote constrained Environment
+5. Strong typing and compile-time checks
+
+STL: Standard Template Library (STL) is a collection of templates and classes that provide general-purpose algorithms and data structures. It is part of the C++ standard library.
+
+Q. What is an IDE: Helps you in writing the Code faster and more Efficiently and also run the code more faster
+
+Q. What are the high and low level language
+HIGH_LEVEL Language
+| A high-level language is one that is user-oriented in that it has been designed to make it straightforward for a programmer to convert an algorithm into program code. 
+| Python, Java, Ruby, C++, Perl, BASIC, COBOL, Pascal, C# 
+
+LOW_LEVEL Language 
+| A low-level language is machine-oriented. Low-level programs are expressed in terms of the machine operations that must be performed to carry out a task. 
+| Assembly language, Machine language 
+
+Q. What happens after we write code
+After writing code, it is typically compiled or interpreted into machine code, which can then be executed by a computer. 
+If the code is written in a high-level language, such as Python or Java, it will first need to be compiled into a low-level language, such as C or C++, before it can be executed.
+The compilation process involves converting the high-level code into a sequence of machine instructions that the computer can understand. 
+Once the code has been compiled, it can be executed by the computer. If the code is written in a low-level language, such as C or C++, it can be executed without first being compiled
+
+Q. What is a compiler
+A compiler is a software program that translates source code written in a high-level programming language into machine code that can be executed directly by a computer's CPU
